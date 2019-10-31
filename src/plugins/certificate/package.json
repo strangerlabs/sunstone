@@ -1,0 +1,15 @@
+{
+  "name": "certificate",
+  "version": "0.0.0",
+  "description": "SSL Certificates for Sunstone Server",
+  "main": "index.js",
+  "sunstone": {
+    "type": "plugin",
+    "dependencies": {
+      "logging": ">=0.0.0",
+      "settings": ">=0.0.0"
+    }
+  },
+  "author": "MIT Connection Science",
+  "license": "MIT"
+}

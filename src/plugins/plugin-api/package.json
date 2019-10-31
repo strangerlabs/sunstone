@@ -1,0 +1,13 @@
+{
+  "name": "sunstone-plugin-api",
+  "version": "0.0.0",
+  "description": "Plugin Management HTTP API for Sunstone Server",
+  "main": "index.js",
+  "author": "MIT Connection Science",
+  "license": "MIT",
+  "sunstone": {
+    "dependencies": {
+      "server": ">=0.0.0"
+    }
+  }
+}

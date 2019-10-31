@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "0.0.0",
+  "description": "Express server plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MIT Connection Science",
+  "license": "MIT",
+  "sunstone": {
+    "dependencies": {
+      "settings": ">=0.0.0",
+      "certificate": ">=0.0.0"
+    }
+  }
+}
